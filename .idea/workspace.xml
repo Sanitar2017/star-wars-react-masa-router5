@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="de89f166-d307-4598-b01b-0ecdaef251cf" name="Changes" comment="Test commit 13\03\23" />
+    <list default="true" id="de89f166-d307-4598-b01b-0ecdaef251cf" name="Changes" comment="first commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +46,7 @@
       <workItem from="1677741705510" duration="592000" />
       <workItem from="1678163080629" duration="4010000" />
       <workItem from="1678679702431" duration="582000" />
-      <workItem from="1678680305572" duration="2051000" />
+      <workItem from="1678680305572" duration="3045000" />
     </task>
     <task id="LOCAL-00001" summary="Test commit 13\03\23">
       <created>1678680467942</created>
@@ -53,7 +55,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678680467942</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="first commit">
+      <created>1678785558769</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678785558769</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -73,7 +82,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Test commit 13\03\23" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test commit 13\03\23" />
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

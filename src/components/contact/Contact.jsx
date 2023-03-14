@@ -2,7 +2,7 @@ import React, {useEffect, useState} from 'react';
 import {base_url, periodMonth} from "../../utils/constants";
 
 const Contact = () => {
-
+    //comment
     const [planetsArray, setPlanets] = useState(['wait...']);
     const fillPlanets = (url) => {
         fetch(url)
